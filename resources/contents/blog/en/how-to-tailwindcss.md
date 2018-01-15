@@ -12,3 +12,24 @@ tags:
   - css
 locale: en_US
 ---
+
+*Intro containing referecene to [Medium article](https://medium.com/@rathes/build-a-web-page-with-tailwind-127bda3aace7)*
+
+Why another article, goal of this one
+
+## Setting up TailwindCSS
+
+- PostCSS Plugin
+- Use with Webpack
+- Use with Laravl Mix
+
+## Working with TailwindCSS
+
+- Markup-First
+- Rapid Prototyping
+- Refactoring
+
+## Optimize TailwindCSS
+
+- Organize Classes in Markup
+- PurgeCSS
