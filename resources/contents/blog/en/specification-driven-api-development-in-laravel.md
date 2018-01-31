@@ -14,3 +14,24 @@ tags:
   - webdev
 locale: en_US
 ---
+
+- basic laravel project
+- api blueprint
+    - what is api blueprint
+    - why api blueprint
+- dredd
+    - what is dredd
+    - why dredd (vs. unit testing)
+- getting started
+    - npm install (-g) dredd
+    - dredd init to create a config file
+        - set language to `vendor/bin/dredd-hooks-php`
+        - server can be php artisan serve --env=testing
+        - blueprint to file
+        - endpoint will be localhost
+    - why this setup?
+    - Hooks to integrate Laravel
+        - running artisan (setup db)
+        - setting env (and adding testing env)
+    - how to run tests
+- last note on what dredd does not (and why you still need unit tests)
